@@ -111,7 +111,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 126
+  controlID: 132
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -135,7 +135,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 12
+  controlID: 49
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -204,7 +204,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 658
     y: 0
-    width: 241
+    width: 239
     height: 731
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
@@ -227,9 +227,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 899
+    x: 897
     y: 0
-    width: 350
+    width: 352
     height: 731
   m_MinSize: {x: 234, y: 271}
   m_MaxSize: {x: 10004, y: 10021}
@@ -368,14 +368,14 @@ MonoBehaviour:
     height: 354
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 4744.9305975824245
+  lastFramingTime: 814.2517986073301
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.0716349, y: 0.15079999, z: -0.091796875}
+    m_Target: {x: -1.8427067, y: -2.0589252, z: 0}
     speed: 2
-    m_Value: {x: 1.0716349, y: 0.15079999, z: -0.091796875}
+    m_Value: {x: -1.8427067, y: -2.0589252, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -403,9 +403,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 15.027604
+    m_Target: 22.016022
     speed: 2
-    m_Value: 15.027604
+    m_Value: 22.016022
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -511,14 +511,14 @@ MonoBehaviour:
     serializedVersion: 2
     x: 660
     y: 92
-    width: 237
+    width: 235
     height: 710
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 843bf8ff6845ffff86fbffff00000000
+    scrollPos: {x: 0, y: 4443}
+    m_SelectedIDs: 2862feff2062feff2262feff1062feff0e62feff2a62feff2462feff1662feff1462feff1262feff1e62feff2662feff1a62feff1862feff1c62feff0c62feff0a62feff0862feff
+    m_LastClickedID: -105976
+    m_ExpandedIDs: 50f6ffff7af6ffff86fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -563,9 +563,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 901
+    x: 899
     y: 92
-    width: 346
+    width: 348
     height: 710
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -580,33 +580,33 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Art/Tiles/Grass
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Art/Tiles/Grass
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\Chris\Documents\GitHub\AI-Racers\AI Racers
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a0350000
-    m_LastClickedID: 13728
-    m_ExpandedIDs: 0000000076270000202800006034000000ca9a3bffffff7f
+    m_SelectedIDs: c82c0000
+    m_LastClickedID: 11464
+    m_ExpandedIDs: 000000007627000054280000522d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Scenes
-      m_OriginalName: Scenes
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 10262
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -620,7 +620,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000076270000
+    m_ExpandedIDs: 000000007627000054280000522d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
