@@ -60,6 +60,19 @@ public class CarControl : MonoBehaviour {
         }
 	}
 
+	void Update()
+	{
+		if (rigid.angularVelocity > 0) 
+		{
+			rigid.angularVelocity -= 0.5F;
+		} 
+		else if (rigid.angularVelocity < 0) 
+		{
+			rigid.angularVelocity += 0.5F;
+		}
+
+	}
+
     void Forward()
     {
         rigid.AddForce(transform.up * acceleration);
