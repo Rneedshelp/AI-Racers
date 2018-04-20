@@ -58,10 +58,13 @@ public class CarControl : MonoBehaviour {
         {
             Reverse();
         }
+
+        //print(transform.forward);
 	}
 
 	void Update()
 	{
+        //Used to counter spinning that occurs as the result of a collision.
 		if (rigid.angularVelocity > 0) 
 		{
 			rigid.angularVelocity -= 0.5F;
@@ -73,16 +76,16 @@ public class CarControl : MonoBehaviour {
 
 	}
 
-    void Forward()
+    public void Forward()
     {
         rigid.AddForce(transform.up * acceleration);
         
     }
-    void Reverse()
+    public void Reverse()
     {
         rigid.AddForce(-transform.up * (acceleration * 0.75f));
     }
-    void Turn(int direction)//modifier for direction, 1 for left turn, 1 for right turn.
+    public void Turn(int direction)//modifier for direction, -1 for left turn, 1 for right turn.
     {
         transform.Rotate(Vector3.forward * (direction * turnRate));//((direction * turnRate)(Vector3.forward));
     }
