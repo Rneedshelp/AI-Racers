@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - node
+  - AI
   layers:
   - Default
   - TransparentFX
