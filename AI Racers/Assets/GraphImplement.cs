@@ -13,19 +13,26 @@ public class GraphImplement : MonoBehaviour {
 	class GraphAStar
 	{
 		Node root;
-
 	};
 
 
-	[SerializeField]
-	private List<Transform> nodesList;
+    //private GraphAStar track = new GraphAStar();
+    public float size = 0f;
 
-	// Use this for initialization
-	void Start () {
+    [SerializeField]
+    private List<Transform> nodesList;
+
+    // Use this for initialization
+    void Start () {
 		nodesList = new List<Transform> ();
 		foreach (Transform child in transform) {
 			nodesList.Add (child);
 		}
+
+        size = nodesList[0].GetComponent<SpriteRenderer>().size[0];
+
+
+
 	}
 	
 	// Update is called once per frame
