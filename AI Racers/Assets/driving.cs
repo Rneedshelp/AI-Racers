@@ -12,6 +12,7 @@ public class driving : MonoBehaviour
     enum facing { up, down, left, right };
     facing face;
     bool linedUp=false;//set to true when lined up with target, false when not. 
+    EdgeCollider2D edge;
 
     //distance between nodes 1.2
     // Use this for initialization
@@ -19,6 +20,8 @@ public class driving : MonoBehaviour
     {
         //car = GetComponent<CarControl>();
         //get current node
+        edge = GetComponent<EdgeCollider2D>();
+        //edge.bounds.center;use this to detect allignment with node on relevent axis
     }
 
     // Update is called once per frame
