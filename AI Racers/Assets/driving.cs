@@ -66,6 +66,10 @@ public class driving : MonoBehaviour
         destination = nextTarget; //set to next node
         linedUp = false; //check to see if we're lined up with next node. 
     }
+    public void SetNextTarget(GameObject next)
+    {
+        nextTarget = next;
+    }
 
     //used to propel car towards destination when lined up
     void goForward()

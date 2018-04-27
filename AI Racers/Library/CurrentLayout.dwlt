@@ -111,7 +111,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 132
+  controlID: 110
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -285,8 +285,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 8
-    y: 456
+    x: -32000
+    y: -31595
     width: 741
     height: 338
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -362,8 +362,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 8
-    y: 100
+    x: -32000
+    y: -31951
     width: 741
     height: 335
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -373,9 +373,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.51388866, y: 1.8979009, z: -9.506003}
+    m_Target: {x: 1.7169759, y: 4.1147604, z: -0.28808594}
     speed: 2
-    m_Value: {x: -0.51388866, y: 1.8979009, z: -9.506003}
+    m_Value: {x: 1.7169759, y: 4.1147604, z: -0.28808594}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -403,9 +403,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 13.874113
+    m_Target: 4.6082973
     speed: 2
-    m_Value: 13.874113
+    m_Value: 4.6082973
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -509,16 +509,16 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 753
-    y: 100
+    x: -31255
+    y: -31951
     width: 221
     height: 694
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9efbffff
-    m_LastClickedID: -1122
-    m_ExpandedIDs: 9efbffff00000000
+    m_SelectedIDs: daa1feff
+    m_LastClickedID: -89638
+    m_ExpandedIDs: daa1feffecf4ffff9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -563,8 +563,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 978
-    y: 100
+    x: -31030
+    y: -31951
     width: 248
     height: 694
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -580,19 +580,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\Chris\Documents\GitHub\AI-Racers\AI Racers
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 582a0000
-    m_LastClickedID: 10840
-    m_ExpandedIDs: 000000008427000000ca9a3bffffff7f
+    m_SelectedIDs: 84270000
+    m_LastClickedID: 10116
+    m_ExpandedIDs: 00000000842700006028000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -672,7 +672,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 989}
     m_GridSize: 96
   m_DirectoriesAreaWidth: 110
 --- !u!114 &18
@@ -697,8 +697,8 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1230
-    y: 100
+    x: -30778
+    y: -31951
     width: 298
     height: 694
   m_PersistentViewDataDictionary: {fileID: 0}
