@@ -6,6 +6,7 @@ TagManager:
   tags:
   - node
   - AI
+  - car
   layers:
   - Default
   - TransparentFX

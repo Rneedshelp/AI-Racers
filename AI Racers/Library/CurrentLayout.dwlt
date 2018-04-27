@@ -136,8 +136,13 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 93
 --- !u!114 &7
+=======
+  controlID: 110
+--- !u!114 &6
+>>>>>>> 2355c88e662a3fd0522f11ea6fcd267eda7395e6
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -285,10 +290,17 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 237
     y: 564
     width: 842
     height: 454
+=======
+    x: -32000
+    y: -31595
+    width: 741
+    height: 338
+>>>>>>> 2355c88e662a3fd0522f11ea6fcd267eda7395e6
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -362,10 +374,17 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 237
     y: 92
     width: 842
     height: 451
+=======
+    x: -32000
+    y: -31951
+    width: 741
+    height: 335
+>>>>>>> 2355c88e662a3fd0522f11ea6fcd267eda7395e6
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 46.23063881834506
@@ -373,9 +392,15 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -2.6693957, y: 0.0452284, z: 0.028979432}
     speed: 2
     m_Value: {x: -2.6693957, y: 0.0452284, z: 0.028979432}
+=======
+    m_Target: {x: 1.7169759, y: 4.1147604, z: -0.28808594}
+    speed: 2
+    m_Value: {x: 1.7169759, y: 4.1147604, z: -0.28808594}
+>>>>>>> 2355c88e662a3fd0522f11ea6fcd267eda7395e6
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -403,9 +428,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 19.08645
     speed: 2
     m_Value: 19.08645
+=======
+    m_Target: 4.6082973
+    speed: 2
+    m_Value: 4.6082973
+>>>>>>> 2355c88e662a3fd0522f11ea6fcd267eda7395e6
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -509,6 +540,7 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
     y: 92
     width: 233
@@ -519,6 +551,18 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: 9efbffff00000000
+=======
+    x: -31255
+    y: -31951
+    width: 221
+    height: 694
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: daa1feff
+    m_LastClickedID: -89638
+    m_ExpandedIDs: daa1feffecf4ffff9efbffff00000000
+>>>>>>> 2355c88e662a3fd0522f11ea6fcd267eda7395e6
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -563,10 +607,17 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1083
     y: 92
     width: 456
     height: 926
+=======
+    x: -31030
+    y: -31951
+    width: 248
+    height: 694
+>>>>>>> 2355c88e662a3fd0522f11ea6fcd267eda7395e6
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -590,9 +641,15 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 92270000
     m_LastClickedID: 10130
     m_ExpandedIDs: 000000009227000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 84270000
+    m_LastClickedID: 10116
+    m_ExpandedIDs: 00000000842700006028000000ca9a3bffffff7f
+>>>>>>> 2355c88e662a3fd0522f11ea6fcd267eda7395e6
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -672,7 +729,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 989}
     m_GridSize: 96
   m_DirectoriesAreaWidth: 110
 --- !u!114 &18
@@ -697,10 +754,17 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1543
     y: 92
     width: 377
     height: 926
+=======
+    x: -30778
+    y: -31951
+    width: 298
+    height: 694
+>>>>>>> 2355c88e662a3fd0522f11ea6fcd267eda7395e6
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
